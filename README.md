@@ -1,3 +1,3 @@
-#Homie
+# Homie
 
-##Your portable home manager!
+## Your portable home manager!
